@@ -32,6 +32,10 @@
 
 ##Ссылки
 
+
+https://learngitbranching.js.org/?locale=ru_RU
+https://habr.com/ru/company/ruvds/blog/599929/
+
 ##Таблицы
 
 ##Цитаты
