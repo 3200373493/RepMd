@@ -53,4 +53,8 @@ https://habr.com/ru/company/ruvds/blog/599929/
 >>Mosher’s Law of Software Engineering
 ##Заключение
 
+<<<<<<< HEAD
 ВЕТКИ СЛИТЫ С КОНФЛИКТОМ, THE END!!!
+=======
+Ветки слиты с конфликтом, Ура!
+>>>>>>> end
