@@ -42,3 +42,5 @@ https://habr.com/ru/company/ruvds/blog/599929/
 ##Цитаты
 
 ##Заключение
+
+ВЕТКИ СЛИТЫ С КОНФЛИКТОМ, THE END!!!
