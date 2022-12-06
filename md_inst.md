@@ -38,6 +38,12 @@ https://learngitbranching.js.org/?locale=ru_RU
 https://habr.com/ru/company/ruvds/blog/599929/
 
 ##Таблицы
+№| name | age
+--|-----|----
+1|Sergey|12
+2|svetlana|21
+3|Anna|23
+4|Gled|56
 
 ##Цитаты
  >Программирование на С похоже на быстрые танцы на только что отполированном полу людей с острыми бритвами в руках.
